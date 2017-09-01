@@ -1,8 +1,8 @@
-# metrobot
+# reminder
 telegram bot on node.js
 
 ### Bot location
-[here](https://t.me/RunForrestBot)
+[here](https://t.me/little_reminder_bot)
 
 ### Development
 ```bash
@@ -13,7 +13,6 @@ make file `config.json` in the root folder:
 
 ```json
 {
-  "doubleGisToken": "YOUR-2GIS-TOKEN",
   "teleToken": "YOUR-TELEGRAM-TOKEN"
 }
 ```
